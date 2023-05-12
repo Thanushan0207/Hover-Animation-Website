@@ -12,6 +12,4 @@ https://github.com/Thanushan0207/Hover-Animation-Website/assets/131554091/afc63f
 
 Pictures:
 
-<img src="https://github.com/Thanushan0207/Cyber-Face-3D-Animation-Website/assets/131554091/e2804eba-b933-4c03-9e50-83ee16aa768c.png">
-
-
+<img src="https://github.com/Thanushan0207/Hover-Animation-Website/assets/131554091/448107ae-d41a-490d-86a2-449cd5b02229">
