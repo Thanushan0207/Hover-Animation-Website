@@ -8,7 +8,7 @@ Steps:
 
 Video of Code in Action:
 
-https://github.com/Thanushan0207/Hover-Animation-Website/assets/131554091/afc63fb4-5f89-484b-91ba-abcfbbb34a32
+https://github.com/Thanushan0207/Hover-Animation-Website/assets/131554091/8fa53dc7-771d-4151-aa1d-e7dcd9654587
 
 Pictures:
 
